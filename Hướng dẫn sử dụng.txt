@@ -1,0 +1,13 @@
+Sử dụng Visual Studio 2019
+
+Sử dụng SQL Server 2022
+
+Đường dẫn hình ảnh :DoAnLAPTRINHWEB_Nhom15\Areas\Admin\Content\img\IMG_Product
+
+Tài khoản Admin: Email: 		admin@gmail.com
+		 Tên đăng nhập: 	Admin
+		 Mật khẩu:		admin123
+
+Phải đăng nhập tài khoản thì mới cho phép thêm vào giỏ hàng
+
+Đường dẫn kết nối Database: Areas/Admin/Models/ConnectSQL
